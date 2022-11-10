@@ -1,0 +1,14 @@
+[
+  {
+    "title": "What is MySQL",
+    "content": "A database tool for storing and accessing data in tables."
+  },
+  {
+    "title": "Handlebars Templating",
+    "content": "Handlebars is a templating framework for generating dynamic HTML pages."
+  },
+  {
+    "title": "MVC",
+    "content": "MVC stands for Model-View-Controller, a method of separating concerns in a full-stack application"
+  }
+]
