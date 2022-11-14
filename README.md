@@ -34,6 +34,6 @@ View the blog entries on the homepage. Login or create an account to make a new 
  Run tests using the npm run test command.
  ## Contact
  ---
- Github: [mg8955](https://github.com/mg8955)
-Email: gostomski.m@gmail.com
+ Github: [mg8955](https://github.com/mg8955) <br>
+Email: gostomski.m@gmail.com <br>
  LinkedIn: [Michael Gostomski](https://www.linkedin.com/in/michael-gostomski/)
