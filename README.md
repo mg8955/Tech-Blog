@@ -16,10 +16,11 @@
  Use npm install to install dependencies.
  ## Usage
  ---
- - Clone the repo and use `npm i` on the package.json to install depenencies. 
+ - Clone the repo.
+ - Open the package.json file in an integrated terminal and use `npm i` to install depenencies. 
  - Run the db file in a MySQL terminal. 
- - Open the server.js file in the integrated terminal and use <npm run seed> to seed the db. 
- - In the server.js terminal run <node server.js> to start the server. 
+ - Open the server.js file in the integrated terminal and use `npm run seed` to seed the db. 
+ - In the server.js terminal run `node server.js` to start the server. 
  - View the app in your browser at localhost:3001.
  ## License
  ---
