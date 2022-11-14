@@ -2,7 +2,7 @@
 ![tech-blogss](https://user-images.githubusercontent.com/113604486/201688369-9b57d093-a9b4-4ba7-a299-129b4ae31826.png)
  ## Description
  ---
- This is a techblog template utilizing a MySQL database, Sequelize and Handlebars templating. <br>
+ This is a techblog template utilizing a MySQL database, Sequelize and Handlebars templating. <br><br>
  [Click here](https://tech-blog-mag.herokuapp.com/) to view the deployed app at Heroku.
  ## Table of Contents
  [Installation](#installation)  
@@ -16,7 +16,7 @@
  Use npm install to install dependencies.
  ## Usage
  ---
- - Clone the repo and use <npm i> on the package.json to install depenencies. 
+ - Clone the repo and use `npm i` on the package.json to install depenencies. 
  - Run the db file in a MySQL terminal. 
  - Open the server.js file in the integrated terminal and use <npm run seed> to seed the db. 
  - In the server.js terminal run <node server.js> to start the server. 
